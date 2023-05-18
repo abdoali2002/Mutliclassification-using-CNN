@@ -1,0 +1,2 @@
+# Mutliclassification-using-CNN
+Alzheimer’s disease (AD) is the most generally known neurodegenerative disorder, leading to a steady deterioration in cognitiveability. Deep learning models have shown outstanding performance in the diagnosis of AD, and these models do not need any handcrafted feature extraction over conventional machine learning algorithms. Since the 2012 AlexNet accomplishment, the convolutional neural network (CNN) has been progressively utilized by the medical community to assist practitioners to earlydiagnose AD
